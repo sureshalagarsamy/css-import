@@ -1,4 +1,4 @@
-# don’t use @import
+# Don’t use @import
 
 Why we need to use @import when we have ``` <link> ``` element. @import has a negative impact on web page performance.
 
